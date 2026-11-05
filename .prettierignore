@@ -1,0 +1,7 @@
+node_modules/
+dist/
+Docx/
+audit/
+test-results/
+playwright-report/
+package-lock.json
